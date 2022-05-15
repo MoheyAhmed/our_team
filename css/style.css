@@ -277,32 +277,21 @@ header .head .left button:hover {
 
 /* *********  End of our team style  ************* */
 
-/* .mainSlider{
-    background-color: #333;
-    height: 500px;
-}
 
-.slider_row{
-    margin-right: unset;
-}
+/* *********  Start of footer style  ************* */
 
-.slickSlider{
-    width: 600px;
-    height: 500px;
-    background-color: antiquewhite;
-    margin: auto;
-}
+footer{
+    background-image: linear-gradient(#0C75C0, #032F4E);
+     color:#fff;
+     text-align: center;
+     margin-top: -1px;
+   }
+   footer a{
+     display: block !important;
+     text-decoration: none;
+     font-size: 20px;
+     color:#fff;
+     padding: 10px 0;
+   }
 
-.slick-prev:before, .slick-next:before {
-    color: #007bff;
-}
-
-.item{
-    line-height: 500px;
-}
-
-.item img{
-    width: 90%;
-    height: 280px;
-    border-radius: 15px;
-} */
+/* *********  End of footer style  ************* */
