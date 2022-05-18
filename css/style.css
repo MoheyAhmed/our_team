@@ -1,6 +1,3 @@
-*{
-    /* margin-right: 0rem !important; */
-}
 
 body{
     font-family: 'Comfortaa', Arial !important;
@@ -285,16 +282,16 @@ footer{
      color:#fff;
      text-align: center;
      margin-top: -1px;
-   }
-   footer a{
-     display: block !important;
-     text-decoration: none;
-     font-size: 20px;
-     color:#fff;
-     padding: 10px 0;
-   }
-   footer p{
-       margin-bottom: 0rem;
-   }
+}
+footer a{
+    display: block !important;
+    text-decoration: none;
+    font-size: 20px;
+    color:#fff;
+    padding: 10px 0;
+}
+footer p{
+    margin-bottom: 0rem;
+}
 
 /* *********  End of footer style  ************* */
